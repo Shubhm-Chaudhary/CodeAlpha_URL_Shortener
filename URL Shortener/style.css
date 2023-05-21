@@ -7,22 +7,23 @@
 body {
     font-family: Arial, sans-serif;
     padding: 20px;
-    background: linear-gradient(to top left, #8585ff, #ff7878fd);
+    background-image: url(yiran-ding-JQRyYCC2OIM-unsplash.jpg);
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
 }
 
+
 .container {
     width: 80%;
     min-height: 350px;
     padding: 40px;
-    border: 2px solid blueviolet;
     border-radius: 30px;
     box-shadow: 0 0 11px 4px rgba(0, 0, 0, 0.25);
-    background: linear-gradient(to top right, #ff3636fd, #6868ff);
     opacity: 0.8;
+    background-color: rgba(27, 62, 81, 0.8);
     margin: auto;
 }
 
